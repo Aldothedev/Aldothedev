@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👨🏽‍💻  Check out my Profile <a href="https://aldothedev.github.io/Portfolio_/">Here</a>
+- 👨🏽‍💻  Check out my Profile <a href="https://aldothedev.github.io/V3Portfolio/">Here</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aldothedev?tab=repositories](https://github.com/Aldothedev?tab=repositories)
 
