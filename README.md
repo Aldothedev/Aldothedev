@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo</h1>
-<h3 align="center">A passionate frontend developer from Atlanta, Georgia</h3>
+<h2 align="center">A passionate frontend developer from Atlanta, Georgia</h2>
+<h3 align="center" text-decoration="underline">New Profile, Old Progile Was Hacked!</h3>
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
